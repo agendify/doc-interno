@@ -6,4 +6,4 @@ sidebar_position: 1
 
 ## Desenho da Cloud a ser implementada
 
-![Desenho Cloud](./assets/Cloud.png)
+![Desenho Cloud](./assets/cloud.png)
