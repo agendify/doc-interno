@@ -17,5 +17,5 @@ sidebar_position: 2
 
 ### Diagrama de sequencia
 
-![Desenho Cloud](./assets/Login-sequencia.png)
+![Desenho Cloud](../assets/Login-sequencia.png)
 
