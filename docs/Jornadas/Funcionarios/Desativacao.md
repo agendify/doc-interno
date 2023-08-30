@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# AStivação/Desativação de funcionários
+# Ativação/Desativação de funcionários
 
 Essa jornada representa a desativação de um funcinário
 

@@ -8,7 +8,9 @@ Essa jordana representa a inserção de novos funcionárioos pelo contratante de
 
 ### Do Usuário
 
- - Deverá informar o nome, sobrenome, data de nascimento, sexo, telefone, numero do documento de identificação e seu orgão emissor, email, perfil de acesso, cep, logradouro, numero, complemento, bairro, cidade e UF
+- Deverá informar o nome, sobrenome, data de nascimento, sexo, telefone, numero do documento de identificação e seu orgão emissor, email, perfil de acesso, cep, logradouro, numero, complemento, bairro, cidade e UF
+- Poderá salvar as devidas informações clicando no botão "Salvar"
+- Poderá cancelar a inclusão clicando no botão "Cancelar"
 
 
 ### Do Sistema
