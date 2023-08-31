@@ -15,5 +15,5 @@ Essa jornada representa a edição dos dados do serviço
 ### Do Sistema
 - O sistema deverá trazer os campos do formulário com os dados do serviço selecionado
 - Deverá permitir a alteração dos seguintes campos: nome, descrição, tempo médio, valor base, fechamento e dia todo
-- O sistema deverá validar se os campo obrigatórios estão preenchidos
+- O sistema deverá validar se os campos obrigatórios estão preenchidos
 - Ao final da edição do serviço o usuário deverá ser direcionado para a tela de lista de serviços com uma notificação e "Alteração realizada com sucesso"
